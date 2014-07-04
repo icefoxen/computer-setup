@@ -1,0 +1,3 @@
+This is a collection of scripts for easily installing a bunch of
+useful/necessary programs on Linux systems.  They assume Debian, and are not
+really production-grade, but make life easier.
