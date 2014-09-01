@@ -5,7 +5,7 @@
 PACKAGES="tf5 irssi wordgrinder emacs emacs-goodies-el python3 mono-devel
 irb nasm haskell-platform haskell-mode fdm msmtp mutt dc bc pandoc
 rar golang imagemagick sox lua5.1 lua5.2 luajit slime gnuplot cclive lynx
-crawl nethack-console iftop nethogs sox libsox-fmt-all"
+crawl nethack-console iftop nethogs sox libsox-fmt-all clang"
 
 aptitude install $PACKAGES
 
