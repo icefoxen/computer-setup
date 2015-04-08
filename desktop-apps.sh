@@ -4,7 +4,7 @@
 
 PACKAGES="dosbox zsnes firefox virtualbox libreoffice audacious bittornado ddd
 qgis inkscape leafpad monodevelop pcsxr recordmydesktop visualboyadvance vlc 
-mplayer virtualbox-qt virtualbox-dkms scrot pavucontrol keepassx"
+mplayer virtualbox-qt virtualbox-dkms scrot pavucontrol keepassx gparted"
 
 aptitude install $PACKAGES
 
