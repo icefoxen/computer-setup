@@ -5,7 +5,7 @@
 
 PACKAGES="ntp tmux git mercurial vim make jnettop iotop
 htop rsync tcpdump zip unzip subversion screen gcc nmap whois bash links
-wget curl netcat dosfstools apt-file trash-cli"
+wget curl netcat dosfstools apt-file trash-cli sshfs"
 
 aptitude install $PACKAGES
 
