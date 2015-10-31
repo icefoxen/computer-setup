@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rsync -avz --progress hg.alopex.li:my.src ~
+rsync -avz --progress hg.alopex.li:my.src/ ~/my.src/
